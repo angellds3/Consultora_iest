@@ -8,7 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - areas.qmd
+      - bibliografia.qmd
+      - mas_informacion.qmd
       - icon: github
         href: https://github.com/angellds3
       - icon: linkedin

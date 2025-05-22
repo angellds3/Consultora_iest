@@ -10,13 +10,13 @@ website:
         text: Home
       - about.qmd
       - icon: github
-        href: https://github.com/bastianolea
+        href: https://github.com/angellds3
       - icon: linkedin
-        href: https://www.linkedin.com/in/bastianolea/
+        href: https://www.linkedin.com/in/angel-llanos-b3185a232/
 
 format:
   html:
-    theme: lux
+    theme: morph
     css: styles.css
     toc: true
 

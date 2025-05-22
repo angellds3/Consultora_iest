@@ -1,5 +1,5 @@
 ---
-title: "Bienvenidx"
+title: "Hola mundo!"
 ---
 
 Este es un sitio de prueba para enseñar a crear sitios web con Quarto.

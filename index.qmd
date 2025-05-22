@@ -7,5 +7,19 @@ Este es un sitio de prueba para enseñar a crear sitios web con Quarto.
 [Entra a este enlace para leer la guía completa.](https://github.com/bastianolea/clase_quarto_madrid)
 
 ```{r}
-1 + 1
+s_fib <- function(m) {
+    
+    serie <- vector("numeric", length = m)
+    
+    for (i in 1:m) {
+        
+        serie[i] <- fib(i)
+    }
+
+    return(serie)
+}
+
+# Se aplica la función s_fib para generar 30 elementos de la serie #
+
+s_fib(30)
 ```

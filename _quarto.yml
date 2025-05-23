@@ -20,11 +20,11 @@ website:
             href: area_2.qmd
             
         
-      - text: "Bibliografiaa"
+      - text: "Bibliografía"
         href: bibliografia.qmd
         
         
-      - text: "Mas informacion"
+      - text: "Mas información"
         href: mas_informacion.qmd
         
         
@@ -35,7 +35,8 @@ website:
 
 format:
   html:
-    theme: morph
+    theme: cosmo
+    # or morph
     css: styles.css
     toc: true
 

@@ -7,10 +7,23 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - areas.qmd
-      - bibliografia.qmd
-      - mas_informacion.qmd
+        text: "Home"
+        
+      - href: areas.qmd
+        text: "Areas"
+        menu: 
+          - href: area1.qmd
+            text: "Área 1"
+            
+          - href: area2.qmd
+            text: "Área 2"
+        
+      - href: bibliografia.qmd
+        text: "Bibliografiaa"
+        
+      - href: mas_informacion.qmd
+        text: "Mas informacion"
+        
       - icon: github
         href: https://github.com/angellds3
       - icon: linkedin

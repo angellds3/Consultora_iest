@@ -2,8 +2,8 @@
 title: "Hola mundo!"
 ---
 
-Este es un sitio de prueba para enseñar a crear sitios web con Quart.
 
+Serie de fibonacci.
 
 ```{r}
 fib <- function(n) {

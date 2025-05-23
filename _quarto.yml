@@ -6,23 +6,27 @@ website:
   title: "Proyecto IES"
   navbar:
     left:
-      - href: index.qmd
-        text: "Home"
+      - text: "Home"
+        href: index.qmd
         
-      - href: areas.qmd
-        text: "Areas"
+        
+      - text: "Areas"
         menu: 
-          - href: area_1.qmd
-            text: "Área 1"
+          - text: "Área 1"
+            href: area_1.qmd
             
-          - href: area_2.qmd
-            text: "Área 2"
+            
+          - text: "Área 2"
+            href: area_2.qmd
+            
         
-      - href: bibliografia.qmd
-        text: "Bibliografiaa"
+      - text: "Bibliografiaa"
+        href: bibliografia.qmd
         
-      - href: mas_informacion.qmd
-        text: "Mas informacion"
+        
+      - text: "Mas informacion"
+        href: mas_informacion.qmd
+        
         
       - icon: github
         href: https://github.com/angellds3

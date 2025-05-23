@@ -2,7 +2,7 @@
 title: "Hola mundo!"
 ---
 
-Este es un sitio de prueba para enseñar a crear sitios web con Quarto.
+Este es un sitio de prueba para enseñar a crear sitios web con Quart.
 
 
 ```{r}

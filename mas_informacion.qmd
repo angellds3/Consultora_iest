@@ -4,6 +4,3 @@ title: "Más información"
 
 Somos un grupo de estudiantes de Ingeniería en Estadística: Matias Valenzuela & Josefa Hasbun & Angel Llanos.
 
-```{r}
-1 + 1
-```

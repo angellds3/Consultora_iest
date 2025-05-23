@@ -12,10 +12,10 @@ website:
       - href: areas.qmd
         text: "Areas"
         menu: 
-          - href: area1.qmd
+          - href: area_1.qmd
             text: "Área 1"
             
-          - href: area2.qmd
+          - href: area_2.qmd
             text: "Área 2"
         
       - href: bibliografia.qmd

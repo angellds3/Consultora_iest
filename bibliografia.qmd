@@ -3,7 +3,3 @@ title: "Bibliografía"
 ---
 
 About this site
-
-```{r}
-1 + 1
-```

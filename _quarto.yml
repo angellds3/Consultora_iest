@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Sitio web Quarto: tutorial"
+  title: "Proyecto IES:"
   navbar:
     left:
       - href: index.qmd

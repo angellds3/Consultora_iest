@@ -32,7 +32,7 @@ format:
   html:
     theme: lux
     # or morph
-    css: styles_lux.css
+    css: styles.css
     toc: true
 
 editor: visual

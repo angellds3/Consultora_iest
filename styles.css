@@ -1,1 +1,42 @@
 /* css styles */
+/* Cambiar color principal de la topbar (navbar) */
+.bg-primary {
+  background-color: #3a8fd9 !important; /* Puedes cambiar este color por el que prefieras */
+}
+
+/* Cambiar el color del texto en la barra */
+.navbar-dark .navbar-nav .nav-link {
+  color: #ffffff; /* Blanco por defecto */
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link.active {
+  color: #ffc107; /* Amarillo en hover o activo */
+}
+
+/* Cambiar color del brand */
+.navbar-dark .navbar-brand {
+  color: #ffffff;
+}
+
+/* Icono del botón hamburguesa */
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%28255,255,255,1%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+/* Input y botón de búsqueda */
+.navbar .form-control {
+  background-color: #ffffff;
+  color: #000;
+}
+
+.navbar .btn-secondary {
+  background-color: #e83283;
+  border-color: #e83283;
+  color: #fff;
+}
+
+.navbar .btn-secondary:hover {
+  background-color: #d41e6f;
+  border-color: #d41e6f;
+}

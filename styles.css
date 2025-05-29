@@ -40,3 +40,12 @@
   background-color: #d41e6f;
   border-color: #d41e6f;
 }
+
+/* Achica el texto del topbar */
+.navbar-nav .nav-link,
+.navbar-brand,
+.navbar .form-control,
+.navbar .btn {
+  font-size: 0.78rem; /* Puedes ajustar el valor: 0.8rem, 0.75rem, etc. */
+}
+

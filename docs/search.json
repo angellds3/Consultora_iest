@@ -54,5 +54,26 @@
     "title": "Area 2",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "proyectos.html",
+    "href": "proyectos.html",
+    "title": "Proyectos",
+    "section": "",
+    "text": "Nuestros proyectos son:"
+  },
+  {
+    "objectID": "contacto.html",
+    "href": "contacto.html",
+    "title": "Areas",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "herramientas.html",
+    "href": "herramientas.html",
+    "title": "Nos especializamos en",
+    "section": "",
+    "text": "About this site"
   }
 ]

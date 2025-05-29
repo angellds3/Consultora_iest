@@ -3,29 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "Proyecto IES"
+  title: "Consultora estadística (IEST)"
+  favicon: "images/logo.png"
   navbar:
     left:
-      - text: "Home"
+      - text: "Inicio"
         href: index.qmd
-        
-        
-      - text: "Areas"
-        menu: 
-          - text: "Área 1"
-            href: area_1.qmd
-            
-            
-          - text: "Área 2"
-            href: area_2.qmd
             
         
-      - text: "Bibliografía"
-        href: bibliografia.qmd
+      - text: "¿Cuales son nuestras herramientas?"
+        href: herramientas.qmd
         
         
-      - text: "Mas información"
-        href: mas_informacion.qmd
+      - text: "Otros proyectos"
+        href: proyectos.qmd
+        
+        
+      - text: "Contacto"
+        href: contacto.qmd
         
         
       - icon: github
@@ -35,9 +30,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: quartz
     # or morph
-    css: styles.css
+    css: styles_quartz.css
     toc: true
 
 editor: visual

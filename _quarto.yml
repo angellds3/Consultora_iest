@@ -30,9 +30,9 @@ website:
 
 format:
   html:
-    theme: quartz
+    theme: lux
     # or morph
-    css: styles_quartz.css
+    css: styles_lux.css
     toc: true
 
 editor: visual

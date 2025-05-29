@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Consultora estadística (IEST)"
+  title: "IEST: Consultoria estadística"
   favicon: "images/logo.png"
   navbar:
     left:
@@ -11,11 +11,11 @@ website:
         href: index.qmd
             
         
-      - text: "¿Cuales son nuestras herramientas?"
+      - text: "Nuestras herramientas"
         href: herramientas.qmd
         
         
-      - text: "Otros proyectos"
+      - text: "Proyectos"
         href: proyectos.qmd
         
         

@@ -1,4 +1,5 @@
 /* css styles */
+
 /* Cambiar color principal de la topbar (navbar) */
 .bg-primary {
   background-color: #3a8fd9 !important; /* Puedes cambiar este color por el que prefieras */
@@ -49,3 +50,16 @@
   font-size: 0.78rem; /* Puedes ajustar el valor: 0.8rem, 0.75rem, etc. */
 }
 
+/* Estilo para título y subtítulo en la marca */
+.brand-title {
+  font-size: 0.9rem;
+  line-height: 1;
+  font-weight: bold;
+}
+
+.brand-subtitle {
+  font-size: 0.65rem;
+  line-height: 1;
+  color: #e0e0e0; /* Gris claro para subtítulo */
+  font-weight: normal;
+}
